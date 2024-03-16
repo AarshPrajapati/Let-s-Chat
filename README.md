@@ -29,9 +29,9 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![Let's Chat](./public/Screenshot/Screenshot1.png)
-![Let's Chat](./public/Screenshot/Screenshot2.png)
-![Let's Chat](./public/Screenshot/Screenshot3.png)
+![Let's Chat](Client/public/Screenshot/Screenshot1.png)
+![Let's Chat](Client/public/Screenshot/Screenshot2.png)
+![Let's Chat](Client/public/Screenshot/Screenshot3.png)
 
 
 
